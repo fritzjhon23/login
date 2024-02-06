@@ -1,8 +1,8 @@
 <?php
-  $host = 'sql106.infinityfree.com';
-  $user = 'if0_35924696';
-  $password = 'alegado23';
-  $database = 'logif0_35924696';
+  $host = '';
+  $user = '';
+  $password = '';
+  $database = '';
   $port = 3306; // Optional
   
 
